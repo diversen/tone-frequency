@@ -1,6 +1,6 @@
 {
   "name": "tone-frequency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate any frequency of notes for equal tempered scales of any kind, e.g. 12 notes. ",
   "main": "index.js",
   "scripts": {
