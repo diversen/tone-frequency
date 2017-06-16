@@ -1,0 +1,24 @@
+{
+  "name": "tone-frequency",
+  "version": "1.0.0",
+  "description": "Calculate any frequency of notes for equal tempered scales of any kind, e.g. 12 notes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/tone-frequency.git"
+  },
+  "keywords": [
+    "frequency",
+    "tones",
+    "note-calculation"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/tone-frequency/issues"
+  },
+  "homepage": "https://github.com/diversen/tone-frequency#readme"
+}
