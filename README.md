@@ -2,7 +2,7 @@
 
 Simple node module to calculate node frequencies. 
 
-Default is 12 tone system with base tone of A = 444hz
+Default is 12 tone system with base tone of A = 440hz
 
 But you can make any frequencies of the notes of an equal tempered scale.
 
