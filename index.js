@@ -8,9 +8,10 @@ function noteFrequency() {
         return Math.pow(2, 1/this.numSteps);
     };
     
-    // Get steps from base tone
-    // A positive or negative int
-    // A is base. To get see, use 3 = A B 'C'. To go down use e.g. -12
+    // Return hz of the step, e.g. for the default settings tihs yields:
+    // 0 = 440 (A)
+    // 5 = 587.329... (D)
+    // -12 = 220 
     this.getToneStep =function(step) {
         return Math.pow(this.getStepSize(), step) * this.base;
     };  
